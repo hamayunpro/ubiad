@@ -1,20 +1,28 @@
-0#coding=utf-8
+# Decompiled By Sayyed Zakarya
 
-#!/usr/bin/python2
+# Github : https://github.com/aryanotriks
 
-#coding=utf-8
+# uncompyle6 version 3.7.4
 
-#originally written by ABDULLAH D4D4
+# Python bytecode 2.7
 
-try:
+# Decompiled from: Python 2.7.18 (default, Mar 20 2021, 14:58:25) 
 
-	import os,sys,time,datetime,random,hashlib,re,threading,json,getpass,urllib,cookielib,requests,uuid,string	from multiprocessing.pool import ThreadPool
+# [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
 
-	from requests.exceptions import ConnectionError
+# Embedded file name: aso
 
-except ImportError:
+import os, sys, time, datetime, re, threading, json, random, requests, hashlib, cookielib, uuid
 
-	os.system("pip2 install requests")
+from multiprocessing.pool import ThreadPool
+
+from requests.exceptions import ConnectionError
+
+__author__ = 'Sayyed Zakarya'
+
+__copyright = 'All rights reserved . Copyright  Sayyed Zakarya'
+
+os.system('termux-setup-storage')
 
 agents =[
 
