@@ -663,7 +663,7 @@ def choice_select():
 	main()
 	
 	
+	
 if __name__ == '__main__':
-	main()
 
-
+    reg()
